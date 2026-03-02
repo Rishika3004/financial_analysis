@@ -1,4 +1,4 @@
-# 💳 Financial Transaction Analysis — Portfolio Project
+#Financial Transaction Analysis — Portfolio Project
 
 ![Alteryx](https://img.shields.io/badge/Tool-Alteryx%20Designer-0078D4?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Excel](https://img.shields.io/badge/Output-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 | Property | Details |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
 1. **Which categories generate the most revenue — and which carry the most fraud risk?**
 2. **How does spending change month-over-month and year-over-year?**
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Key Findings
+##Key Findings
 
 ### Revenue KPIs
 | Metric | Value |
@@ -55,13 +55,13 @@
 | Industry Benchmark | 0.5% – 2.0% |
 
 ### Geographic Highlights
-- 🥇 **New York** — $320 avg transaction (38% above national average)
-- 🥈 **California** — $307 avg transaction
-- ⚠️ **New Jersey** — Highest fraud rate among top-5 states (1.27%)
+**New York** — $320 avg transaction (38% above national average)
+**California** — $307 avg transaction
+#*New Jersey*— Highest fraud rate among top-5 states (1.27%)
 
 ---
 
-## 🗂️ Project Files
+## Project Files
 
 ```
 📁 Financial-Transaction-Analysis/
