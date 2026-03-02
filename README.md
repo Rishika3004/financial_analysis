@@ -1,11 +1,11 @@
-# 💳 Financial Transaction Analysis — KPMG Portfolio Project
+# 💳 Financial Transaction Analysis — Portfolio Project
 
 ![Alteryx](https://img.shields.io/badge/Tool-Alteryx%20Designer-0078D4?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Excel](https://img.shields.io/badge/Output-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-16A34A?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Dataset-50%2C000%20Transactions-8B5CF6?style=for-the-badge)
 
-> **A complete, production-grade financial data analysis project** built to demonstrate end-to-end Alteryx and Excel skills for a Data & Financial Analyst role at KPMG.
+
 
 ---
 
@@ -117,7 +117,7 @@
 | 8 | **Sort** | Sort each branch for clean tabular output |
 | 9 | **Output ×4** | Export to Excel: Category, Monthly, State, Fraud |
 
-> ⏱️ Full pipeline runs in **< 4 minutes** on 50,000 rows. Fully repeatable — update the input CSV to refresh all outputs automatically.
+> 
 
 ---
 
@@ -143,7 +143,7 @@
 
 ---
 
-## 🧠 Analytical Methodology
+##  Analytical Methodology
 
 ### Fraud Risk Classification
 Categories were classified into four risk tiers based on fraud rate thresholds:
@@ -168,7 +168,7 @@ States were scored using average transaction value relative to the national aver
 
 ---
 
-## 📌 Key Business Recommendations
+##  Key Business Recommendations
 
 | Priority | Recommendation | Expected Impact |
 |---|---|---|
